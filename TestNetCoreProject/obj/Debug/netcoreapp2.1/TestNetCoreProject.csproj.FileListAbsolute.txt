@@ -1,0 +1,14 @@
+C:\Users\09370219\Desktop\WebApplication1\TestNetCoreProject\bin\Debug\netcoreapp2.1\TestNetCoreProject.deps.json
+C:\Users\09370219\Desktop\WebApplication1\TestNetCoreProject\bin\Debug\netcoreapp2.1\TestNetCoreProject.runtimeconfig.json
+C:\Users\09370219\Desktop\WebApplication1\TestNetCoreProject\bin\Debug\netcoreapp2.1\TestNetCoreProject.runtimeconfig.dev.json
+C:\Users\09370219\Desktop\WebApplication1\TestNetCoreProject\bin\Debug\netcoreapp2.1\TestNetCoreProject.dll
+C:\Users\09370219\Desktop\WebApplication1\TestNetCoreProject\obj\Debug\netcoreapp2.1\TestNetCoreProject.csprojAssemblyReference.cache
+C:\Users\09370219\Desktop\WebApplication1\TestNetCoreProject\obj\Debug\netcoreapp2.1\TestNetCoreProject.csproj.CoreCompileInputs.cache
+C:\Users\09370219\Desktop\WebApplication1\TestNetCoreProject\obj\Debug\netcoreapp2.1\TestNetCoreProject.RazorAssemblyInfo.cache
+C:\Users\09370219\Desktop\WebApplication1\TestNetCoreProject\obj\Debug\netcoreapp2.1\TestNetCoreProject.RazorAssemblyInfo.cs
+C:\Users\09370219\Desktop\WebApplication1\TestNetCoreProject\obj\Debug\netcoreapp2.1\TestNetCoreProject.AssemblyInfoInputs.cache
+C:\Users\09370219\Desktop\WebApplication1\TestNetCoreProject\obj\Debug\netcoreapp2.1\TestNetCoreProject.AssemblyInfo.cs
+C:\Users\09370219\Desktop\WebApplication1\TestNetCoreProject\obj\Debug\netcoreapp2.1\TestNetCoreProject.RazorTargetAssemblyInfo.cache
+C:\Users\09370219\Desktop\WebApplication1\TestNetCoreProject\bin\Debug\netcoreapp2.1\TestNetCoreProject.pdb
+C:\Users\09370219\Desktop\WebApplication1\TestNetCoreProject\obj\Debug\netcoreapp2.1\TestNetCoreProject.dll
+C:\Users\09370219\Desktop\WebApplication1\TestNetCoreProject\obj\Debug\netcoreapp2.1\TestNetCoreProject.pdb

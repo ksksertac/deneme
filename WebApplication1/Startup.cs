@@ -48,11 +48,16 @@ namespace WebApplication1
                 app.UseHsts();
             }
 
+
             app.UseHttpsRedirection();
             app.UseStaticFiles();
             app.UseCookiePolicy();
+            
 
-            app.UseMvc();
+            app.UseMvc(routers=>
+            {
+                routers.MapRoute("Default", "{controller=Default}/{action=index}");
+            });
         }
     }
 }
